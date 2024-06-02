@@ -5,3 +5,4 @@ Hi
 //revert : open in the git Bash누르고 $git revert [돌아갈 hash]..[시작 hash]
 //reset : $git reset --hard [돌아갈 hash]
 	   $git push origin +main
+되돌리기1
